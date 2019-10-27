@@ -16,7 +16,7 @@
         <module>Cigna</module>
         <module>Citibank</module>
     </modules>
-    <dependencyManagement>
+        <dependencyManagement>
         <dependencies>
             <dependency>
                 <groupId>org.testng</groupId>
